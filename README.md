@@ -1,4 +1,4 @@
-#Bookstore GUI app written using OOP approach.
+##Bookstore GUI app written using OOP approach.
 
 Database used: sqlite3
 
